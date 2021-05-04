@@ -3,7 +3,7 @@ Some github links maybe help:
 1. Torch for runing the FB SegmPred code 
 https://github.com/hiili/WindowsTorch
 
-2.tensorflow basenet:
+2.tensorflow base:
 https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 3.get cityscape dataset
